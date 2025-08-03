@@ -664,9 +664,6 @@ Quality Assurance:
 <!-- Activity Graph -->
 <div align="center">
 
-## 📈 **DEVELOPMENT ACTIVITY MATRIX**
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anuraagkoyalkar&custom_title=FinTech%20Software%20Engineering%20%26%20Cloud%20Architecture&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFA116&area=true&hide_border=true&theme=react" width="95%" />
 
 </div>
 
