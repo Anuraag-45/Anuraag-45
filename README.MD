@@ -174,11 +174,6 @@ for category, metrics in performance_data.items():
 <!-- Elite Custom Analytics -->
 <div align="center">
 
-## 📊 **ENTERPRISE DEVELOPMENT METRICS**
-
-<table align="center" style="border: none;">
-<tr>
-<td align="center" style="border: none;">
 
 ### 💼 **FINANCIAL SYSTEMS IMPACT**
 
